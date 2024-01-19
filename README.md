@@ -6,7 +6,11 @@
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Name: gsam
+Pronouns: she/her
+Program: PPM-DA
+
+Career Overview: Reader/dreamer -> Economist -> Data Scientist -> Reader/dreamer in bits -> PIT
 
 # What I hope to learn
 All the things - obviously. But, primarily: 
@@ -15,11 +19,19 @@ All the things - obviously. But, primarily:
 2. Cool like Mona Chalabi
 3. Merge my artsy and nerdy side: artist-data-scientist
 
+Thinking about careers in government consultancy and PIT.
 
 # Portfolio
 Cool stuff loading....
 Hang in there
-  
 
+## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+Coming up..
+
+## Assignment 3&4: [Critique by Design](critique-by-design)
+Coming up..
+
+## Final project
+Coming up..
 
 
