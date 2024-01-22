@@ -25,10 +25,10 @@ Thinking about careers in government consultancy and PIT.
 Cool stuff loading....
 Hang in there
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Project 1](project-1)
 Coming up..
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Project-2](project-2)
 Coming up..
 
 ## Final project
