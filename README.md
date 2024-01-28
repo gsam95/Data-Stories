@@ -25,7 +25,7 @@ Thinking about careers in government consultancy and PIT.
 Cool stuff loading....
 Hang in there
 
-## Assignment: [Project 1](project-1)
+## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
 Coming up..
 
 ## Assignment 3&4: [Project-2](project-2)
