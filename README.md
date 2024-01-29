@@ -26,8 +26,9 @@ Cool stuff loading....
 Hang in there
 
 ## Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
-Here we used the publicly available Debt-Y Ratio data (https://data.oecd.org/). This data has government debt by country for 1995 - 2021. 
+Here we used the publicly available Debt-Y Ratio data (https://data.oecd.org/).  
 Data Source: “General Government - General Government Debt - OECD Data.” theOECD, http://data.oecd.org/gga/general-government-debt.htm. Accessed 28 Jan. 2024. 
+This data has government debt by country for 1995 - 2021.
 
 We analyze the data using 3 different visualizations:
 1. The first visual analyzes the metric for 2020 across countries and also how it compares to OECD average. Placed in an ascending order, countries to the right of this marker (OECD Average) have high debt-Y ratio compared to OECD average and vice-versa.
@@ -40,7 +41,6 @@ Comparing the 3 visuals:
 3. The third visual was created for EU leaders only. Bar chart with intuitive color scale was chosen to draw attention to countries that need focus.
    
 
-Finally, use Markdown to write a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful.  
 
 ## Assignment 3&4: [Project-2](project-2)
 Coming up..
