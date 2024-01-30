@@ -5,6 +5,7 @@
 
 Here we used the publicly available Debt-Y Ratio data (https://data.oecd.org/).  
 (Data Source: “General Government - General Government Debt - OECD Data.” theOECD, http://data.oecd.org/gga/general-government-debt.htm. Accessed 28 Jan. 2024) 
+
 This data has government debt by country for 1995 - 2021.
 
 We analyze the data using 3 different visualizations:
