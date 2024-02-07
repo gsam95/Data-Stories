@@ -29,8 +29,8 @@ Hang in there
 In this assignment, I utilize the Debt-GDP data from OECD website to analyze difference across countries.
    
 
-## Assignment 3&4: [Project-2](project-2)
-Coming up..
+## Assignment 3&4: [Crtiquing & Redesigning](critique-&-redesign)
+Here I critique and do my first re-design +  journalling. Inputs are welcome:)
 
 ## Final project
 Coming up..
