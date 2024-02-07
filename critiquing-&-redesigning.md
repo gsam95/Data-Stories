@@ -2,14 +2,14 @@
 
 # Make Over Monday: Critique by Design
 
-# Step 1: Choosing a Data Visualization to Redesign 
+## Step 1: Choosing a Data Visualization to Redesign 
 Makeover Monday Data Selected: First visualization on https://k12ssdb.org/
 
 Why did I choose this?
 It is a pertinent topic. When I looked at the existing visualization; at first glance it confused me (the numbers looked small compared to my perception of deaths from shootings, and when I traced it to y-axis, the numbers didn’t match up). The viz had data for over 50 years. Having low mental bandwidth, I felt there was room to convey the story more succinctly. It felt like a good challenge to myself.  
  
 
-# Step 2: Critiquing 
+## Step 2: Critiquing 
 Using Stephen Few’s Data Visualization Effectiveness Profile to critique the visualization.
 
 Usefulness
@@ -46,7 +46,7 @@ The Good Charts Method is natural: that’s how you approach a visualisation –
 Stephen Few’s Method seems to complement the above method, in the sense that ‘what you like/dislike’ can be subjective. Few’s method gives students the toolkit to objectively dissect what we like/dislike and why.
 The method could be made easier to navigate by outlining specifics to look out for. For example for aesthetics, outlining recommended font, color, layout, alignment requirements would be helpful for the user to objectively decide on the score.
 
-# Step 3: Sketching
+## Step 3: Sketching
  
 The primary thing I wanted to achieve was to make the viz. feel succinct while still retaining the information. In the first attempt I made binned years together to make the x-axis shorter. The overall height of the bar would give the trend over the years. A bar each for each shooting would give a sense of number of incidents in each bin and also the casualties in each. But after plotting I realized that the white spaces were adding to the height and could be misleading (a bin with more number of incidents but overall lower death count could be higher than the next bin that has in reality higher number of deaths)
 
@@ -57,7 +57,7 @@ I wanted to keep the information of major and memorable incidents, but couldn’
 
 ![sketchf](sketchf.jpeg)
   
-# Step 4: Testing the Solution: Peer Critique
+## Step 4: Testing the Solution: Peer Critique
 Feedback:
 Critique 1: student, 21
 Critique 2: adult/student, 27
@@ -103,7 +103,7 @@ Following the above two feedback, the primary question I had was if I should do 
    
 The main question I had for them was their opinion over line versus bar. They agreed that bar present information more succinctly, and I should try out stacked bar to incorporate the inputs.
 
-# Step 5: Final Design
+## Step 5: Final Design
 
 For my final design I decided to stick with bars and aggregating the information (over a trend line), but incorporated the input to have the information from the major and memorable incidents (Uvalde, Sandy Hook, Columbine, Santa Fe, Parkland) using stacks.
 
