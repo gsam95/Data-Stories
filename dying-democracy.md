@@ -29,5 +29,6 @@ Another visualization that will be interesting to see would be a word cloud – 
 
 Tentative: Since this is a topic that impact humans – lives – I would like to experiment with data sonification, where sounds with positive (for economic growth) and negative (for lives lost) connotations are used to make the audience feel a morsel of the lived reality of living in a communally charged environment. Do you feel the economic growth albeit the fear around? Or can you feel what the minority feels?
 
-Platform
+## Platform
+
 I intend to primarily use Tableau and Shorthand. For data sonification I might be working and mixing audios, but that is something I need to research further.
