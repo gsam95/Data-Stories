@@ -29,3 +29,6 @@ Tentative: Since this is a topic that impact humans – lives – I would like t
 ## Platform
 
 I intend to primarily use Tableau and Shorthand. For data sonification I might be working and mixing audios, but that is something I need to research further.
+
+
+With this story, the goal is to influence voters to consider the implications of their votes. I have heard people say that they don’t condone the violence, but when the election time comes, the party’s campaign, funded by its crony capitalism agenda, overpowers. And people forget the violence. I hope to etch the sad reality into conscience - that the progress is a façade; the reality is systematic violence and loss of democratic values.
