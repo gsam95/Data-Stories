@@ -32,7 +32,7 @@ In this assignment, I utilize the Debt-GDP data from OECD website to analyze dif
 ## Assignment 3&4: [Critiquing Redesigning](critiquing-redesigning)
 Here I critique and do my first re-design +  journalling. Inputs are welcome:)
 
-## Final Project: [Dying Democracy]
-Part 1(part-1): Find project outline, data sources & rough sketches. Does it engage you? Inputs are welcome:)
+## Final Project: Democracy At Risk
+[Part 1](part-1): Find project outline, data sources & rough sketches. Does it engage you? Inputs are welcome:)
 
 
