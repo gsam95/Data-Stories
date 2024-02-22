@@ -33,6 +33,6 @@ In this assignment, I utilize the Debt-GDP data from OECD website to analyze dif
 Here I critique and do my first re-design +  journalling. Inputs are welcome:)
 
 ## Final Project: Democracy At Risk
-[Part 1](part-1): Find project outline, data sources & rough sketches. Does it engage you? Inputs are welcome:)
+[Part 1](/part-1.md): Find project outline, data sources & rough sketches. Does it engage you? Inputs are welcome:)
 
 
