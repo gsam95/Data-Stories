@@ -9,7 +9,7 @@ This project was inspired by water cooler and lunch table conversations at work.
 
 The hope is that through this story, the voter assesses the consequences of the 'casual' (in terms of absent ideological rigidity) swing vote, and casts the vote consciously.
 
- My story outline is [here](/https://preview.shorthand.com/5aLaLGiZpYX4ohfP)
+ My story outline is [here](/https://preview.shorthand.com/5aLaLGiZpYX4ohfP).
 
 Some of the charts (the unemployment and election result charts), content (on data credibility and unemployment), and pictures (taken from Google images) are borrowed; for now. I will be making them myself. I wanted to test the structure, tone and content in this stage to gauge if I'm telling an effective story. I also need to move at least two of my visualization to Tableau. I will be doing that in part 3.
 
@@ -31,20 +31,26 @@ And then I told them the story I want to tell in words, and asked if the same wa
 The real success metric for me is if it will make the 'swing' voter reconsider voting decision. But party alliances, in social environment as tense as India's, is not something you openly discuss. So while I couldn't ask my test-user base what their alliances and idelogies are, I took my chances. As this is what I intend the story, when published, to do. It might be consumed by people on idelogical extremes, and those in the center. Irrespective of that, does it talk to you? For the swing voter, I hope it's influential. For those on either extremes, it's facts you can nod or shrug to.
 
 
-| Questions to Ask                                                  | Goal             |
-|-------------------------------------------------------------------|------------------|
-| Is the story convincing? Does it need more data grounding?        | |
-| Is it engaging the targeted audience?                             || 
-| Is any part confusing?                                            || 
-| Anythin you'd like me to change?                                  || 
+| Overarching Questions                                             | Goal                                 |
+|-------------------------------------------------------------------|--------------------------------------|
+| Is the story convincing? Does it need more data grounding?        | Is it effective?                     |
+| Is it engaging the targeted audience?                             | Is it relevant and engagaing?        | 
+| Is any part confusing?                                            | Misses & Assumption on creator's part| 
+| Anything you'd like me to change?                                 | Open-ended feedback                  | 
 
-
-Text here!
 
 ## Interview Findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+I hand-picked my test-users with specific intents and goals.
 
-Text here!
+Interview 1: Female. 25. International student. Non Indian.
+I chose her for tone and flow testing of my narrative. Also to see how the story feels to an unfamailiar audience ("What is cow vigilantism?" was a question I didn't expect anyone to have)
+
+Interview 2: Male. 25. International student. Indian.
+I didn't know the ideological affiliation of this individual. But it seemed that would be as good a  proxy I could get for my target audience.
+
+Interview 3: Male. 27. Indian American.
+The Indian diaspora abroad, unless closely following the news, could be cut-off from the lived reality. But they could be emotionally and tangebly involved in the politics of the country. This could be my secondary target auidence. I picked him to test waters on how my communicates with this group.
+
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
