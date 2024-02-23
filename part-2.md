@@ -57,28 +57,15 @@ Interview 3: Male. 27. Indian American.
 The Indian diaspora abroad, unless closely following the news, could be cut-off from the lived reality. But they could be emotionally and tangibly involved in the politics of the country. This could be my secondary target auidence. I picked him to test waters on how my story communicates with this group.
 
 
-| Interview 1                                           | Research Synthesis                                     | Anticipated changes for Part III |
-|-------------------------------------------------------|--------------------------------------------------------|----------------------------------|
-| The financial year in India is from April-March.| The text and graph labels should match as is confusing to unfamiliar audience|            |
-| A page for left-right in India | Introduce political landscape|                                  |
-| What is lynching? Cow vigilantism?| Use ethnic cleansing?|                                  |
-| Took some time to understand the election results page| Do I want readers to spend time on it?|                                  |
-| Data credibility confusing                            |                                                        |                                  |
+| Interview 1                                           | Research Synthesis                       | Anticipated changes for Part III |
+|-------------------------------------------------------|------------------------------------------|----------------------------------|
+| The financial year in India is from April-March.| Confusing to unfamiliar audience| The text and graph labels should match|
+| A page for left-right in India | Introduce political landscape| Will consider if need it|
+| What is lynching? Cow vigilantism?| Use ethnic cleansing?|WIll use ethnic cleansing|
+| Took some time to understand the election results page| Do I want readers to spend time on it?| Res-visualize/remove|
+| Data credibility confusing                            | Is a complicated concept| I assumed concept familairity. Will rephrase it.|
 
 
-# 
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-|                     |                                              |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
+ 
 
 
