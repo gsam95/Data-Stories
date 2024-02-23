@@ -64,8 +64,6 @@ The Indian diaspora abroad, unless closely following the news, could be cut-off 
 | What is lynching? Cow vigilantism?| Use ethnic cleansing?|WIll use ethnic cleansing|
 | Took some time to understand the election results page| Do I want readers to spend time on it?| Res-visualize/remove|
 | Data credibility confusing                            | Is a complicated concept| I assumed concept familairity. Will rephrase it.|
-
-
 | Interview 2 - Target Audience Proxy                   | Research Synthesis                       | Anticipated changes for Part III |
 |-------------------------------------------------------|------------------------------------------|----------------------------------|
 | The lynching numbers should be compared against something | Audience expecting a 'now higher' narrative | As part of propaganda, numbers aren't easily available. I would like to tweak to remove that expecation, and emphasize the gravity of teh numbet better|
