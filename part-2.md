@@ -58,7 +58,7 @@ The Indian diaspora abroad, unless closely following the news, could be cut-off 
 
 **Summary**
 
-The third interview had suggestions on altering the tone. That I should claim and tell the user. Instead of leaving room for them to answer themselves. This would be a main change. I want the voter to decide for themselves. I feel the story is more effective when they conclude themselves. Feeding my ideas could be ineffective because there is so much of that outside anyway. This was a good observation, but I'll probably choose with the tone I have at the moment. 
+The third interview had suggestions on altering the tone. That I should claim and tell the user. Instead of leaving room for them to answer themselves. This would be a significant change. I want the voter to decide for themselves. I feel the story is more effective when they conclude themselves. Feeding my ideas could be ineffective because there is so much of that outside anyway. This was a good observation, but I'll probably choose with the tone I have at the moment. 
 
 The main thing I would like to address from my second interview is the 'give me some numbers to compare' the lynching and communal violence numbers with. This I feel is a good challenge both for the story telling and persoanlly - how do I make the numbers speak for themselves without any comparison. Any life lost is a crime. There shouldn't be a high/low comparison for the gravity to hit the reader.
 
