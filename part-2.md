@@ -57,19 +57,25 @@ Interview 3: Male. 27. Indian American.
 The Indian diaspora abroad, unless closely following the news, could be cut-off from the lived reality. But they could be emotionally and tangibly involved in the politics of the country. This could be my secondary target auidence. I picked him to test waters on how my story communicates with this group.
 
 
-| Interview 1 - International Audience                  | Research Synthesis                       | Anticipated changes for Part III |
+| Interview 1 - Feedback/Questions                 |  Synthesis                       | Anticipated Changes for Part III |
 |-------------------------------------------------------|------------------------------------------|----------------------------------|
-| The financial year in India is from April-March.| Confusing to unfamiliar audience| The text and graph labels should match|
+| The financial year in India is from April-March?| Confusing to unfamiliar audience| The text and graph labels should match|
 | A page for left-right in India | Introduce political landscape| Will consider if need it|
-| What is lynching? Cow vigilantism?| Use ethnic cleansing?|WIll use ethnic cleansing|
-| Took some time to understand the election results page| Do I want readers to spend time on it?| Res-visualize/remove|
+| What is lynching? Cow vigilantism?| Use 'ethnic cleansing'?|Will refer ethnic cleansing|
+| Took some time to understand the election results page| Do I want readers to spend time on it?| Re-visualize/remove|
 | Data credibility confusing                            | Is a complicated concept| I assumed concept familairity. Will rephrase it.|
-| **Interview 2 - Target Audience Proxy**                  | **Research Synthesis**                     | **Anticipated changes for Part III** |
-| The lynching numbers should be compared against something | Audience expecting a 'now higher' narrative | As part of propaganda, numbers aren't easily available. I would like to tweak to remove that expecation, and emphasize the gravity of teh numbet better|
+| **Interview 2 -  Feedback/Questions**                  | **Synthesis**                     | **Anticipated Changes for Part III** |
+| The lynching numbers should be compared against something | Audience expecting a 'now higher' narrative | As part of propaganda, numbers aren't easily available. I would like to tweak to remove that expectaion, and emphasize the gravity of the number better|
 | A resolution page | In my verbal narration I mentioned that absence of strong opposition is one reason for majority votes. The feedback was that I should add a resolution page | This is a good feedback. I need to consider how I want to tailor it |
-| **Interview 3 - Indian Diaspora**                     | **Research Synthesis**                     |**Anticipated changes for Part III** |
-| My narrative is guided - I'm asking versus claiming | For an audience who aren't aware of all the details, it would be easier to be told | I want the reader to objectiveley assess. While I get the feedback (anticipated that diaspora wouldn't know all the details, my primary audience is still the voter.| 
+| **Interview 3 -  Feedback/Questions**                     | **Synthesis**                     |**Anticipated Changes for Part III** |
+| My narrative is guided - I'm asking versus claiming | For an audience who isn't aware of all the details, it would be easier to be told | I want the reader to objectiveley assess. While I get the feedback (anticipated that diaspora wouldn't know all the details), my primary audience is still the voter.| 
 | I also consciously decided not to call out names. Would be easier for 'unaware' reader to follow  | The suggestion was that it is okay to be subjective and call out. | Again, I want the reader to be able to objectively decided. Subjectivity and name calling would color the reading experience.|
+
+The third interview had suggestions on altering the tone. That I should claim and tell the user. Instead of leaving room for them to answer themselves. This would be a main change. I want the voter to decide for themselves. I feel the story is more effective when they conclude themselves. Feeding my ideas could be ineffective because there is so much of that outside anyway. This was a good observation, but I'll probably choose with the tone I have at the moment. 
+
+The main thing I would like to address from my second interview is the 'give me some numbers to compare' the lynching and communal violence numbers with. This I feel is a good challenge both for the story telling and persoanlly - how do I make the numbers speak for themselves without any comparison. Any life lost is a crime. There shouldn't be a high/low comparison for the gravity to hit the reader.
+
+The first interview made me consider if I should have pages on context setting.
 
 
 
