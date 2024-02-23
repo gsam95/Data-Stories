@@ -62,7 +62,7 @@ The third interview had suggestions on altering the tone. That I should claim an
 
 The main thing I would like to address from my second interview is the 'give me some numbers to compare' the lynching and communal violence numbers with. This I feel is a good challenge both for the story telling and persoanlly - how do I make the numbers speak for themselves without any comparison. Any life lost is a crime. There shouldn't be a high/low comparison for the gravity to hit the reader.
 
-The first interview made me consider if I should have pages on context setting.
+The first interview made me consider if I should have pages on context setting. This could be one of secondary objectives for part 3.
 
 
 **Details**
@@ -83,7 +83,9 @@ The first interview made me consider if I should have pages on context setting.
 | I also consciously decided not to call out names. Would be easier for 'unaware' reader to follow  | The suggestion was that it is okay to be subjective and call out. | Again, I want the reader to be able to objectively decided. Subjectivity and name calling would color the reading experience.|
 
 
-
+With these useful feedbacks, I'm excited to work on part 3. 
+I'm looking forward to finalising charts and incorporating the feedbacks I received.
+Happy working to me:)
 
  
 
