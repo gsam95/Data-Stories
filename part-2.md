@@ -64,10 +64,12 @@ The Indian diaspora abroad, unless closely following the news, could be cut-off 
 | What is lynching? Cow vigilantism?| Use ethnic cleansing?|WIll use ethnic cleansing|
 | Took some time to understand the election results page| Do I want readers to spend time on it?| Res-visualize/remove|
 | Data credibility confusing                            | Is a complicated concept| I assumed concept familairity. Will rephrase it.|
-| **Interview 2 - Target Audience Proxy **                  | **Research Synthesis  **                     | **Anticipated changes for Part III** |
+| **Interview 2 - Target Audience Proxy**                  | **Research Synthesis**                     | **Anticipated changes for Part III** |
 | The lynching numbers should be compared against something | Audience expecting a 'now higher' narrative | As part of propaganda, numbers aren't easily available. I would like to tweak to remove that expecation, and emphasize the gravity of teh numbet better|
 | A resolution page | In my verbal narration I mentioned that absence of strong opposition is one reason for majority votes. The feedback was that I should add a resolution page | This is a good feedback. I need to consider how I want to tailor it |
-| **Interview 3 - Indian Diaspora    **                     | **Research Synthesis  **                     |** Anticipated changes for Part III** |
+| **Interview 3 - Indian Diaspora**                     | **Research Synthesis**                     |**Anticipated changes for Part III** |
+| My narrative is guided - I'm asking versus claiming | For an audience who aren't aware of all the details, it would be easier to be told | I want the reader to objectiveley assess. While I get the feedback (anticipated that diaspora wouldn't know all the details, my primary audience is still the voter.| 
+| I also consciously decided not to call out names. Would be easier for 'unaware' reader to follow  | The suggestion was that it is okay to be subjective and call out. | Again, I want the reader to be able to objectively decided. Subjectivity and name calling would color the reading experience.|
 
 
 
