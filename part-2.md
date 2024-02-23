@@ -7,7 +7,7 @@ Using the sketches and outline from last week, I developed a story outline to ga
 
 This project was inspired by water cooler and lunch table conversations at work. More on this in the presentation;) I wished to tell this story then, but I do it now through this project. And I'm excited to see if I successfully convey it.
 
-The hope is that through this story, the voter assesses the consequences of the 'casual' (in terms of absent ideological rigidity) swing vote, and casts the vote consciously.
+The hope is that through this story, the voter assesses the consequences of their 'casual' (in terms of absent ideological rigidity) swing vote, and casts the vote consciously.
 
  My story outline is here - https://preview.shorthand.com/5aLaLGiZpYX4ohfP.
 
