@@ -16,7 +16,7 @@ Some of the charts (the unemployment and election result charts), content (on da
 # User Research 
 
 ## Target audience
-My story is intended for an Indian voter. But I intend it to be informative for people beyond the subcontinent's borders. And so, for my user research I also wanted to test it on a wider audience, to get a sense of how it feels to an unfamiliar audience. 
+My story is intended for an Indian voter. But I intend it to be informative for people beyond the subcontinent's borders. And so, for my user research I tested it on a wider audience, to get a sense of how it feels to an unfamiliar audience. 
 
 
 ## Interview Script
