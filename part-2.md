@@ -56,6 +56,17 @@ Interview 3: Male. 27. Indian American.
 
 The Indian diaspora abroad, unless closely following the news, could be cut-off from the lived reality. But they could be emotionally and tangibly involved in the politics of the country. This could be my secondary target auidence. I picked him to test waters on how my story communicates with this group.
 
+**Summary**
+
+The third interview had suggestions on altering the tone. That I should claim and tell the user. Instead of leaving room for them to answer themselves. This would be a main change. I want the voter to decide for themselves. I feel the story is more effective when they conclude themselves. Feeding my ideas could be ineffective because there is so much of that outside anyway. This was a good observation, but I'll probably choose with the tone I have at the moment. 
+
+The main thing I would like to address from my second interview is the 'give me some numbers to compare' the lynching and communal violence numbers with. This I feel is a good challenge both for the story telling and persoanlly - how do I make the numbers speak for themselves without any comparison. Any life lost is a crime. There shouldn't be a high/low comparison for the gravity to hit the reader.
+
+The first interview made me consider if I should have pages on context setting.
+
+
+**Details**
+
 
 | Interview 1 - Feedback/Questions                 |  Synthesis                       | Anticipated Changes for Part III |
 |-------------------------------------------------------|------------------------------------------|----------------------------------|
@@ -71,11 +82,6 @@ The Indian diaspora abroad, unless closely following the news, could be cut-off 
 | My narrative is guided - I'm asking versus claiming | For an audience who isn't aware of all the details, it would be easier to be told | I want the reader to objectiveley assess. While I get the feedback (anticipated that diaspora wouldn't know all the details), my primary audience is still the voter.| 
 | I also consciously decided not to call out names. Would be easier for 'unaware' reader to follow  | The suggestion was that it is okay to be subjective and call out. | Again, I want the reader to be able to objectively decided. Subjectivity and name calling would color the reading experience.|
 
-The third interview had suggestions on altering the tone. That I should claim and tell the user. Instead of leaving room for them to answer themselves. This would be a main change. I want the voter to decide for themselves. I feel the story is more effective when they conclude themselves. Feeding my ideas could be ineffective because there is so much of that outside anyway. This was a good observation, but I'll probably choose with the tone I have at the moment. 
-
-The main thing I would like to address from my second interview is the 'give me some numbers to compare' the lynching and communal violence numbers with. This I feel is a good challenge both for the story telling and persoanlly - how do I make the numbers speak for themselves without any comparison. Any life lost is a crime. There shouldn't be a high/low comparison for the gravity to hit the reader.
-
-The first interview made me consider if I should have pages on context setting.
 
 
 
