@@ -41,34 +41,38 @@ The real success metric for me is if it will make the 'swing' voter reconsider v
 | This is what I want to say. Did the story convey the same?        | Successful framing                    |   
 
 
-## Interview Findings
+## Interview Findings, Synthesis, & Identified Changes for Part III
 I hand-picked my test-users with specific intents and goals.
 
 Interview 1: Female. 25. International student. Non Indian.
+
 I chose her for tone and flow testing of my narrative. Also to see how the story feels to an unfamailiar audience ("What is cow vigilantism?" was a question I didn't expect anyone to have)
 
 Interview 2: Male. 25. International student. Indian.
+
 I didn't know the ideological affiliation of this individual. But it seemed that would be as good a  proxy I could get for my target audience.
 
 Interview 3: Male. 27. Indian American.
-The Indian diaspora abroad, unless closely following the news, could be cut-off from the lived reality. But they could be emotionally and tangebly involved in the politics of the country. This could be my secondary target auidence. I picked him to test waters on how my communicates with this group.
+
+The Indian diaspora abroad, unless closely following the news, could be cut-off from the lived reality. But they could be emotionally and tangibly involved in the politics of the country. This could be my secondary target auidence. I picked him to test waters on how my story communicates with this group.
 
 
-| Interview 1 | Interview 2 | Interview 3 |
-|--------------------------------------------------------------|--------------------------------|-------------|-------------|
-| Insightful feedback            |             |             |
-|             |
-|             |             |
-|             |             |
-|             |             |
+| Interview 1                                           | Research Synthesis                                     | Anticipated changes for Part III |
+|-------------------------------------------------------|--------------------------------------------------------|----------------------------------|
+| The financial year in India is from April-March.      | The text and graph labels should match as is confusing 
+                                                          to unfamiliar audience                                 |                                  |
+| A page for left-right in India                        |                                                        |                                  |
+| What is lynching? Cow vigilantism?                    |                                                        |                                  |
+| Took some time to understand the election results page|                                                        |                                  |
+| Data credibility confusing                            |                                                        |                                  |
 
 
-# Identified Changes for Part III
+# 
 > Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+|                     |                                              |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 |                                          |                                                                                 |
