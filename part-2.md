@@ -59,11 +59,10 @@ The Indian diaspora abroad, unless closely following the news, could be cut-off 
 
 | Interview 1                                           | Research Synthesis                                     | Anticipated changes for Part III |
 |-------------------------------------------------------|--------------------------------------------------------|----------------------------------|
-| The financial year in India is from April-March.      | The text and graph labels should match as is confusing 
-                                                          to unfamiliar audience                                 |                                  |
-| A page for left-right in India                        |                                                        |                                  |
-| What is lynching? Cow vigilantism?                    |                                                        |                                  |
-| Took some time to understand the election results page|                                                        |                                  |
+| The financial year in India is from April-March.| The text and graph labels should match as is confusing to unfamiliar audience|            |
+| A page for left-right in India | Introduce political landscape|                                  |
+| What is lynching? Cow vigilantism?| Use ethnic cleansing?|                                  |
+| Took some time to understand the election results page| Do I want readers to spend time on it?|                                  |
 | Data credibility confusing                            |                                                        |                                  |
 
 
