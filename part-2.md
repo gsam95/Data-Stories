@@ -37,7 +37,7 @@ The real success metric for me is if it will make the 'swing' voter reconsider v
 | Is it engaging the targeted audience?                             | Is it relevant and engagaing?         | 
 | Is any part confusing?                                            | Misses & assumptions on creator's part| 
 | Anything you'd like me to change?                                 | Open-ended feedback                   | 
-| Could you follow the story?                                       | Flow & narrarti                       | 
+| Could you follow the story?                                       | Flow & narrartive                       | 
 | This is what I want to say. Did the story convey the same?        | Successful framing                    |   
 
 
