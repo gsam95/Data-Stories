@@ -1,7 +1,7 @@
 [home page](https://gsam95.github.io/Data-Stories/) 
 
 # The final data story
-The final published story is here: https://carnegiemellon.shorthandstories.com/ec441325-fa82-41f7-9d1b-c7732cd9fed3/index.html
+The final published story is here: https://carnegiemellon.shorthandstories.com/b775a737-c30b-45fa-abf3-9782bb4e3ebb/index.html
 
 
 # Changes made since Part II
