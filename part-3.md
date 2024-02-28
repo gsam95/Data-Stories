@@ -13,37 +13,34 @@ I wanted the message to be democratic. Not partisan. And that is what I hope I h
 
 The message shifted from 'Cast Consciously' to 'Rethinking Vote'.
 
-This narrtaive was there in part 2 in undertones. The specific party details were coloring it over. While those details make the argument strong, they shade the narrative with party affiliation and undermine credibility of the narrative. 
+This narrative was there in part 2 in undertones. The specific party details were coloring it over. While those details make the argument strong, they shade the narrative with party affiliation and undermine credibility of the narrative. 
 
-The narrative shift also required that some of the party specific and other charts be removed, since they weren't fitting in the story anymore. This helped with 'uncoloring' the tone, but left me with fewer charts, but since the focus of the project is story telling, I hope it will be okay.
+The narrative shift also required that some of the party specific and other charts be removed, since they weren't fitting in the story anymore. This helped with 'uncoloring' the tone, but left me with fewer charts, but since the focus of the project is storytelling, I hope it will be okay.
 
 The major tone change aside, other feedbacks from part 2 were also incorporated.
 
-1. One of the most useful feedback was for the undemployment page. I earlier planned to have a chart that visualized the unemployment trends over time. The test-review identified that I had more memorable numbers in the text (75 million, 25 million) which make a stronger point.
-2. One of the question I received in initial stages of part 2 and even with current version was that why am I not showing recent GDP numbers. I decided to continue with pre-COVID numbers as then the drop is attributed to COVID.
-3. Another useful reccomendation I received was to have a resolution page - what can people do? That didn't seem as obvious in the tone I had in part 2. But the refocusing in part 3 help me tailor it in the narrative. And I belive it makes the narrative stronger.
+1. One of the most useful feedbacks was for the unemployment page. I earlier planned to have a chart that visualized the unemployment trends over time. The test-review identified that I had more memorable numbers in the text (75 million, 25 million) which make a stronger point.
+2. One of the questions I received in initial stages of part 2 and even with current version was that why am I not showing recent GDP numbers. I decided to continue with pre-COVID numbers as then the drop is attributed to COVID.
+3. Another useful recommendation I received was to have a resolution page - what can people do? That didn't seem as obvious in the tone I had in part 2. But the refocusing in part 3 help me tailor it in the narrative. And I believe it makes the narrative stronger.
 
-   
+The primary design decision was that I wanted the color tones to be dark themed. Background images (especially in the unemployment and poverty page) to work with the narrative passively. The cover page background image was also chosen for the same reason.
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+The story guides the user through a dialogue. It asks a question ('Is the thriving popularity of the government in response to its economic performance?', 'If the government failed on key economic targets, why are they popular still?') and then presents a narrative that could be a response to the story. It asks the reader to consider.
+
+The questions - the call outs - to the reader are in yellow.
+
    
 ## The audience
-This story was inspired by comments I heard amongst my colleagues. They didn't condone the communal violence. But for lack of alternatives would vote for the party neverthless still. This seeded the thought that times like these need us to identify that our vote could be perceived as a voice against our neighbors.
+This story was inspired by comments I heard amongst my colleagues. They didn't condone the communal violence. But for lack of alternatives would vote for the party nevertheless. This seeded the thought that exceptional times like these need us to identify that our vote could be perceived as a voice against fellow citizens.
 
-The primary audience for me in Indian voter. But the message is larger. It's about how do we make the democracy stronger. How do we make the government hear. It demands the polity to be engaged. Change can come only then.
-
-
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
-
-Text here!
-
-
-
-Text here!
+The primary audience for me is an Indian voter. But the message is larger. It's about how do we make the democracy stronger. How do we make the government hear. It demands the polity to be engaged. Change can come only then. I used India as an example for contexting and also because it has elections in 2024. But the message is generic and relevant to any reader interested in why violence happens and what can we do.
 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+I am most grateful for the feedback for tone change I could do in part 3. I hope I have been successful, if only somewhat.
+I could have strengthened the narrative with alternate data, but the time-crunch didn't leave for these considerations.
+The narrative shift was a significant change. It felt like I was doing Part 2 again. I would have liked to take user feedback again to identify gaps, but didn't have the time for it.
 
-Text here!
+I wished to embed Tableau charts but didn't like the full-page rendering, and so for design's sake decided to continue with uploaded images.
+
+
